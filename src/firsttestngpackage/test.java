@@ -14,6 +14,8 @@ public class test {
 	public  void test2()                     // Second test case.  
 	{  
 		System.out.println("panjala");  
+		System.out.println("mani");  
+	
 	}}  
 
 
